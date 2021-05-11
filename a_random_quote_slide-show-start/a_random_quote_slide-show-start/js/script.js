@@ -70,9 +70,10 @@ function getRandomQuote(){
  * `printQuote` function
 ***/
 ////////////////////////////////////////////////////////////////////////////////
-// class notes: or use function expression constant printQuote = function(){blah}
+// class notes: or use function expression const printQuote = function(){blah}
 // function hoisted, function called must be after  function expression
-// arrow function constant printQuote = () =>{blah}
+// arrow function const printQuote = () =>{blah}
+// function const getSquareArea = a => a**2;
 ////////////////////////////////////////////////////////////////////////////////
 
 
