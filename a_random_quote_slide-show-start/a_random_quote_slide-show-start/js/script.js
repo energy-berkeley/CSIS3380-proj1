@@ -81,7 +81,7 @@ function getRandomQuote(){
 // note that the values a and b are private.
 // for(let prop in person){console.log(`${prop} ${person[prop]}$`)}
 
-// ExecuteCallback(()=>{blah})
+// ExecuteCallback(()=>{blah}) -- calling back an anonymous function using arrow
 ////////////////////////////////////////////////////////////////////////////////
 
 
