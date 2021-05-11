@@ -72,6 +72,7 @@ function getRandomQuote(){
 ////////////////////////////////////////////////////////////////////////////////
 // class notes: or use function expression constant printQuote = function(){blah}
 // function hoisted, function called must be after  function expression
+// arrow function constant printQuote = () =>{blah}
 ////////////////////////////////////////////////////////////////////////////////
 
 
