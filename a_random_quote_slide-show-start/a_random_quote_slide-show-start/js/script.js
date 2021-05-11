@@ -1,6 +1,7 @@
 /******************************************
 Treehouse FSJS Techdegree:
 project 1 - A Random Quote Generator
+Written by Man Yat CHU on 10 May 2021
 ******************************************/
 
 // For assistance: 
@@ -72,7 +73,7 @@ function printQuote(){
 
   // 1. Create a variable that calls the getRandomQuote()
   // function
-  
+
   let randomQuote = getRandomQuote();
 
   // 2. Create a variable that initiates your HTML string with
