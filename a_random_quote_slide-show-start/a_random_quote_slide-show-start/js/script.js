@@ -72,12 +72,16 @@ function getRandomQuote(){
 ////////////////////////////////////////////////////////////////////////////////
 // class notes: or use function expression const printQuote = function(){blah}
 // function hoisted, function called must be after  function expression
+
 // arrow function const printQuote = () =>{blah}
 // function const getSquareArea = a => a**2;
+
 // const person = {property1:"a", property2:"b"}
 // for(let prop in person){console.log(prop)} -- print the properties.
 // note that the values a and b are private.
 // for(let prop in person){console.log(`${prop} ${person[prop]}$`)}
+
+// ExecuteCallback(()=>{blah})
 ////////////////////////////////////////////////////////////////////////////////
 
 
