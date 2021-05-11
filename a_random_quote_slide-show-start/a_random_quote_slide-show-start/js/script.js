@@ -69,6 +69,12 @@ function getRandomQuote(){
 /***
  * `printQuote` function
 ***/
+////////////////////////////////////////////////////////////////////////////////
+// class notes: or use function expression constant printQuote = function(){blah}
+// function hoisted, function called must be after  function expression
+////////////////////////////////////////////////////////////////////////////////
+
+
 function printQuote(){
 
   // 1. Create a variable that calls the getRandomQuote()
